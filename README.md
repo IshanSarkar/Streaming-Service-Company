@@ -22,7 +22,7 @@ Top 10 countries by TV Shows:<br>
 - Again, the United States leads in the number of movies, followed by India and the United Kingdom. This indicates that the majority of movies on the platform originate from these countries.
 - The United States also leads in the number of TV shows, followed by the United Kingdom and Japan. This suggests that while the US dominates in both movies and TV shows, other countries like the UK and Japan also have a significant contribution to the TV show category.
 
-#### Insights:
+#### Analysis:
 - The dominance of the United States across all categories indicates its strong presence in the global entertainment industry.
 - India also stands out, particularly in the number of movies, reflecting the booming Bollywood industry.
 - The prominence of the United Kingdom, France, and Germany highlights the contribution of European countries to the platform's content.
