@@ -82,8 +82,19 @@ Top 10 countries by TV Shows:<br>
   - **Japan:** Shows a preference for International TV Shows.
   - **South Korea:** Focuses on TV Dramas and Romantic Movies.
   - **United Kingdom:** Diverse interests including Dramas, Comedies, and International Movies. <br>
-
-
+## Relationship between Content date addition and Content date release:
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/443ad254-eb0c-4581-93c6-838e40b07756) <br>
+**Movies:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/a1575c1f-3c8b-4b28-8dc7-d51a9ce82c66) <br>
+**TV Shows:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/8cc65bd7-656c-4186-91b5-85b52e5aa5af) <br>
+#### Insights:
+- **Overall:** All the graph indicates the time difference (in years) between when the content was added and when it was released. The majority of content is added and released within the same year (0-year difference), with 3241 instances. There is a significant decrease in the number of instances as the time difference increases, indicating that the majority of content is added and released relatively quickly after production.
+- **Movies:** Similar to the overall content, the largest number of instances (1862) has a 0-year difference, meaning most movies are added and released in the same year. The trend of decreasing instances as the time difference increases is also observed here, although the counts are generally lower compared to the overall content.
+- **TV Shows:** Unlike movies, TV shows seem to have a longer time gap between addition and release. There are fewer instances of 0-year differences (1379) compared to movies. However, the pattern of decreasing instances as the time difference increases is still evident, indicating that even for TV shows, most content is added and released within a relatively short timeframe.
+#### Analysis:
+- The data suggests that the majority of content, whether it be movies or TV shows, is added and released within the same year.
+- TV shows tend to have a longer gap between addition and release compared to movies, possibly due to differences in production timelines and release strategies.
 
 
 
