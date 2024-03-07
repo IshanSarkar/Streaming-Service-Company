@@ -94,7 +94,27 @@ Top 10 countries by TV Shows:<br>
 - **TV Shows:** Unlike movies, TV shows seem to have a longer time gap between addition and release. There are fewer instances of 0-year differences (1379) compared to movies. However, the pattern of decreasing instances as the time difference increases is still evident, indicating that even for TV shows, most content is added and released within a relatively short timeframe.
 #### Analysis:
 - The data suggests that the majority of content, whether it be movies or TV shows, is added and released within the same year.
-- TV shows tend to have a longer gap between addition and release compared to movies, possibly due to differences in production timelines and release strategies.
+- TV shows tend to have a longer gap between addition and release compared to movies, possibly due to differences in production timelines and release strategies.<br>
+## Duration:
+**For Movies:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/64ba09cd-276a-47d6-9f44-28abf20bc0df)<br>
+**For TV Shows:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/6a7c28fd-2dd8-4262-a8fa-2f37992bde7e) <br>
+#### Analysis & Insights:
+- **Top Movies Duration:**
+  - The majority of top movies have durations between 90 to 105 minutes.
+  - Peak count occurs at 90 minutes, suggesting popularity in shorter films.
+  - Longer durations see a gradual decrease in frequency.
+  - Viewer preference likely favors shorter movie runtimes.
+- **Top TV Shows Duration:**
+  - Single-season shows dominate, indicating a preference for standalone or limited series.
+  - Counts decrease as the number of seasons increases.
+  - Viewers may prefer binge-worthy, concise storylines.
+  - Some diversity exists, with a range of season counts up to 17.
+- Overall, viewer preferences lean towards shorter movie runtimes and limited TV series, but longer-running shows still have a significant audience.
+
+# Overall Report:
+
 
 
 
