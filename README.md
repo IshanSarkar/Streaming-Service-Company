@@ -58,7 +58,32 @@ Top 10 countries by TV Shows:<br>
 - **Top 10 Actors in TV Shows:** This list features predominantly **Japanese** voice actors, such as **Takahiro Sakurai** and **Yuki Kaji**, reflecting the popularity of **anime** and Japanese television shows worldwide.
 - **Top 10 Directors:** **Rajiv Chilaka** tops the list, suggesting his prominence in directing various projects. **Martin Scorsese** stands out as the only director from mainstream cinema in this list, indicating the diversity of directors included.
 - **Top 10 Directors in Movies:** Similar to the overall directors' list, **Rajiv Chilaka** leads, indicating his strong presence in the movie direction. **Martin Scorsese** remains a notable figure, showcasing his influence in the film industry worldwide.
-- **Top 10 Directors in TV Shows:** This list features directors primarily associated with **documentary and television programming**. **Alastair Fothergill** and **Ken Burns** stand out, indicating their contributions to the documentary genre. The inclusion of directors like **Gautham Vasudev Menon** suggests the diversity of television content represented, including **dramas and non-fiction programming**.
+- **Top 10 Directors in TV Shows:** This list features directors primarily associated with **documentary and television programming**. **Alastair Fothergill** and **Ken Burns** stand out, indicating their contributions to the documentary genre. The inclusion of directors like **Gautham Vasudev Menon** suggests the diversity of television content represented, including **dramas and non-fiction programming**.<br>
+## Genre Analysis:
+**Top Genres:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/f9a35c33-6d31-44b2-aab4-dca3399ec50f) <br>
+**Last 3 years Top Genres:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/1a7a19b1-25bd-4184-b012-3196fac74828) <br>
+**Top Genres in Movies:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/ed15fc42-494f-4329-861a-db571005f937) <br>
+**Top Genres in TV Shows:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/5aeb4b50-0dbb-4216-bb61-a9c032a48f07) <br>
+**Top Genres in Top Countries:** <br>
+![image](https://github.com/IshanSarkar/Streaming-Service-Company/assets/160044904/277d4c8b-ce68-4650-8737-a010dbb20fb6) <br>
+#### Insights Summary:
+- **Top Genres Overall:** International Movies, Dramas, and Comedies lead, reflecting a global interest. Documentaries and Action & Adventure are also popular.
+- **Last 3 Years Trends:** Similar to overall trends, with a rise in Action & Adventure and Thrillers. Crime TV Shows and Kids' TV also show growth.
+- **Movie Genre Landscape:** International Movies, Dramas, and Comedies dominate. Documentaries and Thrillers also have a strong presence.
+- **TV Shows Genre Overview:** International TV Shows are prominent, followed by TV Dramas and TV Comedies. Crime TV Shows and Reality TV are also popular.
+- **Top Genres by Country:** 
+  - **United States:** Dominates across genres.
+  - **India:** Strong interest in Dramas and International Movies.
+  - **France:** Emphasizes Dramas and International Movies.
+  - **Japan:** Shows a preference for International TV Shows.
+  - **South Korea:** Focuses on TV Dramas and Romantic Movies.
+  - **United Kingdom:** Diverse interests including Dramas, Comedies, and International Movies. <br>
+
+
 
 
 
